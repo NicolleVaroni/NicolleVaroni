@@ -6,8 +6,8 @@
 
 <div>
 <a href="https://github.com/NicolleVaroni">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolleVaroni&layout=compact&langs_count=7&theme=onedark"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolleVaroni&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolleVaroni&layout=compact&langs_count=7&theme=blue_navy"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolleVaroni&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Estou aprendendo
