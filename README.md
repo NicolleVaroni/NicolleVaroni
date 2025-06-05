@@ -1,6 +1,6 @@
 ### Olá! Sou Nicolle Varoni, seja bem-vindo(a) 👋
 ##
-- Estudante de Análise e Desenvolvimento de Sistemas no IFSP
+- Estudante de Análise e Desenvolvimento de Sistemas na USF
 - Diploma como Técnica em Informática
 - Atualmente trabalhando na área de redes 
 
